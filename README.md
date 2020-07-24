@@ -1,1 +1,1 @@
-### Hi there 👋 [![HitCount](https://hits.dwyl.com/AravindVNair99/AravindVNair99.svg)](https://hits.dwyl.com/AravindVNair99/AravindVNair99)
+### Hi there 👋 ![](https://komarev.com/ghpvc/?username=AravindVNair99&label=Profile+Views)
