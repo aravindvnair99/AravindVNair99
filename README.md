@@ -1,7 +1,5 @@
 ### Hey there, I'm [Aravind V. Nair](https://AravindVNair99.github.io)! 👋 👨‍💻 ![](https://komarev.com/ghpvc/?username=AravindVNair99&label=Profile+Views)
 
-[![Analytics](https://ga-beacon.appspot.com/UA-41088180-6/AravindVNair99)](https://github.com/igrigorik/ga-beacon)
-
 - 🔭 I’m currently working on [Spot the Hole](https://github.com/AravindVNair99/Spot-the-Hole) and [Amrita Hall Management System](https://github.com/AravindVNair99/Hall-Management-System)
 - 🌱 I’m currently learning [Google Cloud Platform](https://cloud.google.com)
 - 👯 I’m looking to collaborate on [Spot the Hole](https://github.com/AravindVNair99/Spot-the-Hole) and [Amrita Hall Management System](https://github.com/AravindVNair99/Hall-Management-System)
