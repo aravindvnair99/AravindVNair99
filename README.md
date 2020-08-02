@@ -15,7 +15,7 @@
 <code><img height="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-![Aravind's github stats](https://github-readme-stats.vercel.app/api?username=AravindVNair99&show_icons=true)
+![Aravind's github stats](https://github-readme-stats.vercel.app/api?username=AravindVNair99&show_icons=true&include_all_commits=true)
 ![Aravind's github language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AravindVNair99&layout=compact)
 ![IEEE-Amrita-Bengaluru](https://github-readme-stats.vercel.app/api/pin/?username=AravindVNair99&repo=IEEE-Amrita-Bengaluru)
 ![SPIC-MACAY-Amrita-Bengaluru](https://github-readme-stats.vercel.app/api/pin/?username=AravindVNair99&repo=SPIC-MACAY-Amrita-Bengaluru)
