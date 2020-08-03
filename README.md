@@ -17,6 +17,6 @@
 
 ![Aravind's github stats](https://github-readme-stats.vercel.app/api?username=AravindVNair99&show_icons=true&include_all_commits=true&count_private=true)
 ![Aravind's github language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AravindVNair99&layout=compact)
-![IEEE-Amrita-Bengaluru](https://github-readme-stats.vercel.app/api/pin/?username=AravindVNair99&repo=IEEE-Amrita-Bengaluru)
-![SPIC-MACAY-Amrita-Bengaluru](https://github-readme-stats.vercel.app/api/pin/?username=AravindVNair99&repo=SPIC-MACAY-Amrita-Bengaluru)
-![Email-Application](https://github-readme-stats.vercel.app/api/pin/?username=AravindVNair99&repo=Email-Application)
+[![IEEE-Amrita-Bengaluru](https://github-readme-stats.vercel.app/api/pin/?username=AravindVNair99&repo=IEEE-Amrita-Bengaluru)](https://github.com/AravindVNair99/IEEE-Amrita-Bengaluru)
+[![SPIC-MACAY-Amrita-Bengaluru](https://github-readme-stats.vercel.app/api/pin/?username=AravindVNair99&repo=SPIC-MACAY-Amrita-Bengaluru)](https://github.com/AravindVNair99/SPIC-MACAY-Amrita-Bengaluru)
+[![Email-Application](https://github-readme-stats.vercel.app/api/pin/?username=AravindVNair99&repo=Email-Application)](https://github.com/AravindVNair99/Email-Application)
