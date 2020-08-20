@@ -16,6 +16,9 @@
 <code><img height="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 ![Aravind's github stats](https://github-readme-stats.vercel.app/api?username=AravindVNair99&show_icons=true&include_all_commits=true&count_private=true)
+
+**:zap: Recent Activity:**
+
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#1](https://github.com//Suriya-2/Numerical-methods/issues/1) in [Suriya-2/Numerical-methods](https://github.com//Suriya-2/Numerical-methods)
 2. 🗣 Commented on [#74](https://github.com//igrigorik/ga-beacon/issues/74) in [igrigorik/ga-beacon](https://github.com//igrigorik/ga-beacon)
