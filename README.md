@@ -17,15 +17,6 @@
 
 ![Aravind's github stats](https://github-readme-stats.vercel.app/api?username=AravindVNair99&show_icons=true&include_all_commits=true&count_private=true)
 
-**:zap: Recent Activity:**
-
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com//Suriya-2/Numerical-methods/issues/1) in [Suriya-2/Numerical-methods](https://github.com//Suriya-2/Numerical-methods)
-2. 🗣 Commented on [#74](https://github.com//igrigorik/ga-beacon/issues/74) in [igrigorik/ga-beacon](https://github.com//igrigorik/ga-beacon)
-3. 🗣 Commented on [#122](https://github.com//KieronQuinn/TapTap/issues/122) in [KieronQuinn/TapTap](https://github.com//KieronQuinn/TapTap)
-4. 🗣 Commented on [#1](https://github.com//KieronQuinn/TapTap/issues/1) in [KieronQuinn/TapTap](https://github.com//KieronQuinn/TapTap)
-5. ❗️ Opened issue [#73](https://github.com//igrigorik/ga-beacon/issues/73) in [igrigorik/ga-beacon](https://github.com//igrigorik/ga-beacon)
-<!--END_SECTION:activity-->
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-183-blue)
 
