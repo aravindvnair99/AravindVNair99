@@ -2,7 +2,7 @@ name: WakaTime Stats
 
 on:
   schedule:
-    - cron: '*/2 * * * *'
+    - cron: '0 0 * * *'
 
 jobs:
   update-readme:
