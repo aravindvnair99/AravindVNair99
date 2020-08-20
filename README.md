@@ -103,3 +103,7 @@ C                        4 repos             █░░░░░░░░░░�
 [![IEEE-Amrita-Bengaluru](https://github-readme-stats.vercel.app/api/pin/?username=AravindVNair99&repo=IEEE-Amrita-Bengaluru)](https://github.com/AravindVNair99/IEEE-Amrita-Bengaluru)
 [![SPIC-MACAY-Amrita-Bengaluru](https://github-readme-stats.vercel.app/api/pin/?username=AravindVNair99&repo=SPIC-MACAY-Amrita-Bengaluru)](https://github.com/AravindVNair99/SPIC-MACAY-Amrita-Bengaluru)
 [![Email-Application](https://github-readme-stats.vercel.app/api/pin/?username=AravindVNair99&repo=Email-Application)](https://github.com/AravindVNair99/Email-Application)
+
+<p align="center">
+<a href="https://buymeacoffee.com/AravindVNair99" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/arial-blue.png" alt="Buy Aravind A Coffee" height="40" width="170" ></a>
+</p>
