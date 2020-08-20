@@ -26,7 +26,7 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-183-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-100.0%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-115.0%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -66,8 +66,6 @@ Sunday       364 commits    ████░░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Kolkata
-
 💬 Programming Languages: 
 Other                    82 hrs 50 mins      ████████████████████████░   97.7% 
 JavaScript               43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.86% 
