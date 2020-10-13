@@ -99,9 +99,6 @@ C                        4 repos             █░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 ![Aravind's github language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AravindVNair99&layout=compact)
-[![IEEE-Amrita-Bengaluru](https://github-readme-stats.vercel.app/api/pin/?username=AravindVNair99&repo=IEEE-Amrita-Bengaluru)](https://github.com/AravindVNair99/IEEE-Amrita-Bengaluru)
-[![SPIC-MACAY-Amrita-Bengaluru](https://github-readme-stats.vercel.app/api/pin/?username=AravindVNair99&repo=SPIC-MACAY-Amrita-Bengaluru)](https://github.com/AravindVNair99/SPIC-MACAY-Amrita-Bengaluru)
-[![Email-Application](https://github-readme-stats.vercel.app/api/pin/?username=AravindVNair99&repo=Email-Application)](https://github.com/AravindVNair99/Email-Application)
 
 <!--
 <p align="center">
