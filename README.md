@@ -18,13 +18,13 @@
 ![Aravind's github stats](https://github-readme-stats.vercel.app/api?username=AravindVNair99&show_icons=true&include_all_commits=true&count_private=true)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-107.4%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-45.1%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
 > 🏆 1,575 Contributions in the Year 2020
  > 
-> 📦 769.6 kB Used in Github's Storage 
+> 📦 770.0 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
