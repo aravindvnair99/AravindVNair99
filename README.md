@@ -18,11 +18,11 @@
 ![Aravind's github stats](https://github-readme-stats.vercel.app/api?username=AravindVNair99&show_icons=true&include_all_commits=true&count_private=true)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-100.0%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-71.7%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 1,552 Contributions in the Year 2020
+> 🏆 1,558 Contributions in the Year 2020
  > 
 > 📦 617.9 kB Used in Github's Storage 
  > 
@@ -84,11 +84,11 @@ Windows                  28 hrs 35 mins      ███████████�
 **I Mostly Code in HTML** 
 
 ```text
-HTML                     26 repos            ████████████░░░░░░░░░░░░░   48.15% 
-JavaScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.81% 
-Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.26% 
-Java                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.26% 
-C                        4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.41%
+HTML                     26 repos            ███████████░░░░░░░░░░░░░░   47.27% 
+JavaScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.55% 
+Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
+Java                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
+C                        4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.27%
 
 ```
 
