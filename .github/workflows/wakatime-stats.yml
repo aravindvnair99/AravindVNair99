@@ -17,3 +17,4 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
           SHOW_TIMEZONE: "False"
           SHOW_PROJECTS: "False"
+          SHOW_OS: "False"
