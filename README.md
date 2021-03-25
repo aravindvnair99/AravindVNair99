@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning [Google Cloud Platform](https://cloud.google.com)
 - 👯 I’m looking to collaborate on [Spot the Hole](https://github.com/AravindVNair99/Spot-the-Hole) and [Amrita Hall Management System](https://github.com/AravindVNair99/Hall-Management-System)
 - 🤔 I’m looking for help with [Spot the Hole](https://github.com/AravindVNair99/Spot-the-Hole) and [Amrita Hall Management System](https://github.com/AravindVNair99/Hall-Management-System)
-- 💬 Ask me about anything [here](https://github.com/AravindVNair99/AravindVNair99/issues)
-- 📫 How to reach me: [Post here](https://github.com/AravindVNair99/AravindVNair99/issues)
+- 💬 Ask me about anything [here](https://github.com/AravindVNair99/AravindVNair99/discussions)
+- 📫 How to reach me: [Post here](https://github.com/aravindvnair99/AravindVNair99/discussions)
 - ⚡ Fun fact: Kung Fu black belt martial artist
 
 <h3 align="left">Languages and Tools:</h3>
