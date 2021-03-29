@@ -20,13 +20,13 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AravindVNair99&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-622576%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-616774%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 888 Contributions in the Year 2021
+> 🏆 887 Contributions in the Year 2021
  > 
-> 📦 804.0 kB Used in Github's Storage 
+> 📦 803.9 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -78,11 +78,11 @@ Unknown Editor           15 mins             ░░░░░░░░░░░�
 **I Mostly Code in HTML** 
 
 ```text
-HTML                     23 repos            ████████░░░░░░░░░░░░░░░░░   31.51% 
-JavaScript               14 repos            ████░░░░░░░░░░░░░░░░░░░░░   19.18% 
-EJS                      9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.33% 
-Python                   6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.22% 
-Java                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.22%
+HTML                     22 repos            ███████░░░░░░░░░░░░░░░░░░   30.56% 
+JavaScript               14 repos            ████░░░░░░░░░░░░░░░░░░░░░   19.44% 
+EJS                      9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+Python                   6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+Java                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
 
 ```
 
