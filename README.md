@@ -20,11 +20,11 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AravindVNair99&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-625754%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-626311%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 2,016 Contributions in the Year 2021
+> 🏆 2,022 Contributions in the Year 2021
  > 
 > 📦 839.3 kB Used in Github's Storage 
  > 
@@ -61,17 +61,11 @@ Sunday       271 commits    ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    15 hrs 30 mins      ████████████████████████░   99.03% 
-JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.39% 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.34% 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22% 
-INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
+Other                    5 hrs 21 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-Browser                  7 hrs 47 mins       ████████████░░░░░░░░░░░░░   49.71% 
-Unknown Editor           5 hrs               ████████░░░░░░░░░░░░░░░░░   31.93% 
-Bash                     2 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.29% 
-VS Code                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.06%
+Unknown Editor           5 hrs 15 mins       ████████████████████████░   98.13% 
+Browser                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.87%
 
 ```
 
