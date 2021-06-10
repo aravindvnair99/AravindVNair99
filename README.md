@@ -20,11 +20,11 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AravindVNair99&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-626153%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-626030%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 2,049 Contributions in the Year 2021
+> 🏆 2,054 Contributions in the Year 2021
  > 
 > 📦 840.8 kB Used in Github's Storage 
  > 
@@ -86,7 +86,7 @@ Java                     6 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/aravindvnair99/aravindvnair99/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/06/2021
+ Last Updated on 10/06/2021
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
