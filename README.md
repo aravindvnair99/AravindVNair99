@@ -20,11 +20,11 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AravindVNair99&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-622802%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-622788%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 2,531 Contributions in the Year 2021
+> 🏆 2,534 Contributions in the Year 2021
  > 
 > 📦 848.8 kB Used in Github's Storage 
  > 
@@ -39,15 +39,15 @@
 ```text
 🌞 Morning    177 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.29% 
 🌆 Daytime    693 commits    ████████░░░░░░░░░░░░░░░░░   32.44% 
-🌃 Evening    776 commits    █████████░░░░░░░░░░░░░░░░   36.33% 
-🌙 Night      490 commits    █████░░░░░░░░░░░░░░░░░░░░   22.94%
+🌃 Evening    774 commits    █████████░░░░░░░░░░░░░░░░   36.24% 
+🌙 Night      492 commits    █████░░░░░░░░░░░░░░░░░░░░   23.03%
 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       249 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.66% 
-Tuesday      281 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.16% 
+Monday       247 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.56% 
+Tuesday      283 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.25% 
 Wednesday    235 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.0% 
 Thursday     337 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.78% 
 Friday       413 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.34% 
@@ -96,7 +96,7 @@ Java                     6 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/aravindvnair99/aravindvnair99/main/charts/bar_graph.png) 
 
 
- Last Updated on 26/07/2021
+ Last Updated on 27/07/2021
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
