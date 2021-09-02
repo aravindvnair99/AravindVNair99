@@ -61,13 +61,19 @@ Sunday       310 commits    ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    14 hrs 15 mins      █████████████████████████   100.0%
+Other                    13 hrs 15 mins      █████████████████████░░░░   86.2% 
+JavaScript               1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.1% 
+Bash                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.33% 
+JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.35% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 
 🔥 Editors: 
-Unknown Editor           14 hrs 15 mins      █████████████████████████   100.0%
+Unknown Editor           13 hrs 15 mins      █████████████████████░░░░   86.14% 
+VS Code                  2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.86%
 
 💻 Operating System: 
-Unknown OS               14 hrs 15 mins      █████████████████████████   100.0%
+Unknown OS               13 hrs 15 mins      █████████████████████░░░░   86.14% 
+Linux                    2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.86%
 
 ```
 
@@ -88,7 +94,7 @@ Java                     6 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/aravindvnair99/aravindvnair99/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/09/2021
+ Last Updated on 02/09/2021
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
