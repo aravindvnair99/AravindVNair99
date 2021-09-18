@@ -20,7 +20,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AravindVNair99&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-611535%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-611206%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -46,13 +46,13 @@
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       279 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.86% 
+Monday       278 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.82% 
 Tuesday      292 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.41% 
 Wednesday    287 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.2% 
 Thursday     349 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.84% 
 Friday       463 commits    █████░░░░░░░░░░░░░░░░░░░░   19.69% 
 Saturday     356 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.14% 
-Sunday       326 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.86%
+Sunday       327 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.9%
 
 ```
 
