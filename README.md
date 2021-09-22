@@ -22,11 +22,11 @@
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-610781%20lines%20of%20code-blue)
 
-**🐱 My Github Data** 
+**🐱 My GitHub Data** 
 
 > 🏆 2,899 Contributions in the Year 2021
  > 
-> 📦 852.1 kB Used in Github's Storage 
+> 📦 852.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
