@@ -26,7 +26,7 @@
 
 > 🏆 2,938 Contributions in the Year 2021
  > 
-> 📦 855.5 kB Used in GitHub's Storage 
+> 📦 855.6 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -61,17 +61,13 @@ Sunday       314 commits    ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    14 hrs 30 mins      █████████████████████████   99.9% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08% 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Unknown Editor           14 hrs 30 mins      █████████████████████████   99.84% 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Unknown OS               14 hrs 30 mins      █████████████████████████   99.84% 
-Linux                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16%
+No Activity Tracked This Week
 
 ```
 
@@ -92,7 +88,7 @@ Java                     6 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/aravindvnair99/aravindvnair99/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/10/2021
+ Last Updated on 04/10/2021
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
