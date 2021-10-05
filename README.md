@@ -20,13 +20,13 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AravindVNair99&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-607655%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-607665%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 2,973 Contributions in the Year 2021
+> 🏆 2,974 Contributions in the Year 2021
  > 
-> 📦 856.1 kB Used in GitHub's Storage 
+> 📦 856.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -39,16 +39,16 @@
 ```text
 🌞 Morning    186 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.16% 
 🌆 Daytime    701 commits    ███████░░░░░░░░░░░░░░░░░░   30.75% 
-🌃 Evening    820 commits    █████████░░░░░░░░░░░░░░░░   35.96% 
-🌙 Night      573 commits    ██████░░░░░░░░░░░░░░░░░░░   25.13%
+🌃 Evening    819 commits    █████████░░░░░░░░░░░░░░░░   35.92% 
+🌙 Night      574 commits    ██████░░░░░░░░░░░░░░░░░░░   25.18%
 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       244 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.7% 
+Monday       243 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.66% 
 Tuesday      303 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.29% 
-Wednesday    267 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.71% 
+Wednesday    268 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.75% 
 Thursday     360 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.79% 
 Friday       451 commits    █████░░░░░░░░░░░░░░░░░░░░   19.78% 
 Saturday     340 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.91% 
