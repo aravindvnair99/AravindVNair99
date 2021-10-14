@@ -20,11 +20,11 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AravindVNair99&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-607627%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-607781%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 3,017 Contributions in the Year 2021
+> 🏆 3,019 Contributions in the Year 2021
  > 
 > 📦 850.5 kB Used in GitHub's Storage 
  > 
@@ -61,20 +61,20 @@ Sunday       315 commits    ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    41 hrs 2 mins       █████████████████████████   99.57% 
+Other                    42 hrs 48 mins      █████████████████████████   99.58% 
 Python                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.17% 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.14% 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13% 
 JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12%
 
 🔥 Editors: 
-Browser                  34 hrs 32 mins      █████████████████████░░░░   83.8% 
-Unknown Editor           6 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.77% 
-VS Code                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.43%
+Browser                  36 hrs 48 mins      █████████████████████░░░░   85.62% 
+Unknown Editor           6 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   13.96% 
+VS Code                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.42%
 
 💻 Operating System: 
-Windows                  34 hrs 32 mins      █████████████████████░░░░   83.8% 
-Unknown OS               6 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.77% 
-Linux                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.43%
+Windows                  36 hrs 48 mins      █████████████████████░░░░   85.62% 
+Unknown OS               6 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   13.96% 
+Linux                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.42%
 
 ```
 
@@ -95,7 +95,7 @@ Java                     6 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/aravindvnair99/aravindvnair99/main/charts/bar_graph.png) 
 
 
- Last Updated on 13/10/2021
+ Last Updated on 14/10/2021
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
