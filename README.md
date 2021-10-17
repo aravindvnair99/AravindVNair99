@@ -61,15 +61,18 @@ Sunday       315 commits    ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    37 hrs 33 mins      █████████████████████████   100.0%
+Other                    37 hrs 33 mins      ████████████████████████░   99.2% 
+JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.8%
 
 🔥 Editors: 
-Browser                  31 hrs 18 mins      ████████████████████░░░░░   83.36% 
-Unknown Editor           6 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.64%
+Browser                  31 hrs 48 mins      █████████████████████░░░░   84.01% 
+Unknown Editor           5 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.19% 
+VS Code                  18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.8%
 
 💻 Operating System: 
-Windows                  31 hrs 18 mins      ████████████████████░░░░░   83.36% 
-Unknown OS               6 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.64%
+Windows                  31 hrs 48 mins      █████████████████████░░░░   84.01% 
+Unknown OS               5 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.19% 
+Linux                    18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.8%
 
 ```
 
@@ -90,7 +93,7 @@ Java                     6 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/aravindvnair99/aravindvnair99/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/10/2021
+ Last Updated on 17/10/2021
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
