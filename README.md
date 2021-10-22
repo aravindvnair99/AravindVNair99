@@ -26,7 +26,7 @@
 
 > 🏆 3,071 Contributions in the Year 2021
  > 
-> 📦 851.5 kB Used in GitHub's Storage 
+> 📦 851.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -93,7 +93,7 @@ Java                     6 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/aravindvnair99/aravindvnair99/main/charts/bar_graph.png) 
 
 
- Last Updated on 21/10/2021
+ Last Updated on 22/10/2021
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
