@@ -20,11 +20,11 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AravindVNair99&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-731991%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-731995%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 3,395 Contributions in the Year 2021
+> 🏆 3,397 Contributions in the Year 2021
  > 
 > 📦 854.9 kB Used in GitHub's Storage 
  > 
