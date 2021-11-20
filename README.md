@@ -26,7 +26,7 @@
 
 > 🏆 3,427 Contributions in the Year 2021
  > 
-> 📦 855.3 kB Used in GitHub's Storage 
+> 📦 855.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -61,15 +61,15 @@ Sunday       331 commits    ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    43 hrs 52 mins      █████████████████████████   100.0%
+Other                    40 hrs 10 mins      █████████████████████████   100.0%
 
 🔥 Editors: 
-Browser                  37 hrs 7 mins       █████████████████████░░░░   84.62% 
-Unknown Editor           6 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.38%
+Browser                  33 hrs 10 mins      ████████████████████░░░░░   82.57% 
+Unknown Editor           7 hrs               ████░░░░░░░░░░░░░░░░░░░░░   17.43%
 
 💻 Operating System: 
-Windows                  37 hrs 7 mins       █████████████████████░░░░   84.62% 
-Unknown OS               6 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.38%
+Windows                  33 hrs 10 mins      ████████████████████░░░░░   82.57% 
+Unknown OS               7 hrs               ████░░░░░░░░░░░░░░░░░░░░░   17.43%
 
 ```
 
@@ -90,7 +90,7 @@ Java                     6 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/aravindvnair99/aravindvnair99/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/11/2021
+ Last Updated on 20/11/2021
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
