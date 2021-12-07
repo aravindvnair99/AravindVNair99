@@ -21,13 +21,13 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AravindVNair99&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C646%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C650%20hrs%2030%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--1%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 3,494 Contributions in the Year 2021
+> 🏆 3,497 Contributions in the Year 2021
  > 
 > 📦 856.0 kB Used in GitHub's Storage 
  > 
@@ -41,8 +41,8 @@
 
 ```text
 🌞 Morning    200 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.91% 
-🌆 Daytime    656 commits    ███████░░░░░░░░░░░░░░░░░░   29.22% 
-🌃 Evening    763 commits    ████████░░░░░░░░░░░░░░░░░   33.99% 
+🌆 Daytime    655 commits    ███████░░░░░░░░░░░░░░░░░░   29.18% 
+🌃 Evening    764 commits    ████████░░░░░░░░░░░░░░░░░   34.03% 
 🌙 Night      626 commits    ███████░░░░░░░░░░░░░░░░░░   27.88%
 
 ```
