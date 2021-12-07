@@ -21,6 +21,8 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AravindVNair99&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C643%20hrs%2043%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--1%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -62,18 +64,18 @@ Sunday       350 commits    ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    29 hrs 20 mins      █████████████████████████   99.72% 
-EJS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.28%
+Other                    30 hrs 54 mins      █████████████████████████   99.74% 
+EJS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.26%
 
 🔥 Editors: 
-Browser                  21 hrs 5 mins       ██████████████████░░░░░░░   71.68% 
-Unknown Editor           8 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   28.04% 
-VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.28%
+Browser                  22 hrs 24 mins      ██████████████████░░░░░░░   72.31% 
+Unknown Editor           8 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   27.43% 
+VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.26%
 
 💻 Operating System: 
-Windows                  21 hrs 5 mins       ██████████████████░░░░░░░   71.68% 
-Unknown OS               8 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   28.04% 
-Linux                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.28%
+Windows                  22 hrs 24 mins      ██████████████████░░░░░░░   72.31% 
+Unknown OS               8 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   27.43% 
+Linux                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.26%
 
 ```
 
@@ -94,7 +96,7 @@ Java                     6 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/aravindvnair99/aravindvnair99/main/charts/bar_graph.png) 
 
 
- Last Updated on 06/12/2021
+ Last Updated on 07/12/2021
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
