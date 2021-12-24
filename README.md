@@ -21,8 +21,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AravindVNair99&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C733%20hrs%2044%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--1%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -64,15 +62,15 @@ Sunday       345 commits    ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    30 hrs 45 mins      █████████████████████████   100.0%
+Other                    24 hrs 29 mins      █████████████████████████   100.0%
 
 🔥 Editors: 
-Browser                  23 hrs 15 mins      ███████████████████░░░░░░   75.61% 
-Unknown Editor           7 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   24.39%
+Browser                  15 hrs 29 mins      ███████████████░░░░░░░░░░   63.26% 
+Unknown Editor           9 hrs               █████████░░░░░░░░░░░░░░░░   36.74%
 
 💻 Operating System: 
-Windows                  23 hrs 15 mins      ███████████████████░░░░░░   75.61% 
-Unknown OS               7 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   24.39%
+Windows                  15 hrs 29 mins      ███████████████░░░░░░░░░░   63.26% 
+Unknown OS               9 hrs               █████████░░░░░░░░░░░░░░░░   36.74%
 
 ```
 
