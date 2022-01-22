@@ -21,13 +21,13 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AravindVNair99&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C844%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C848%20hrs%208%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--1%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 76 Contributions in the Year 2022
+> 🏆 81 Contributions in the Year 2022
  > 
 > 📦 860.2 kB Used in GitHub's Storage 
  > 
@@ -41,8 +41,8 @@
 
 ```text
 🌞 Morning    217 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.64% 
-🌆 Daytime    656 commits    ███████░░░░░░░░░░░░░░░░░░   29.13% 
-🌃 Evening    749 commits    ████████░░░░░░░░░░░░░░░░░   33.26% 
+🌆 Daytime    659 commits    ███████░░░░░░░░░░░░░░░░░░   29.26% 
+🌃 Evening    746 commits    ████████░░░░░░░░░░░░░░░░░   33.13% 
 🌙 Night      630 commits    ███████░░░░░░░░░░░░░░░░░░   27.98%
 
 ```
@@ -100,7 +100,7 @@ Java                     6 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/aravindvnair99/aravindvnair99/main/charts/bar_graph.png) 
 
 
- Last Updated on 22/01/2022 06:34:28 UTC
+ Last Updated on 22/01/2022 12:41:32 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
