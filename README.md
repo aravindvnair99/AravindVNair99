@@ -21,15 +21,13 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AravindVNair99&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C849%20hrs%2040%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--1%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 82 Contributions in the Year 2022
+> 🏆 84 Contributions in the Year 2022
  > 
-> 📦 860.4 kB Used in GitHub's Storage 
+> 📦 860.5 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -42,19 +40,19 @@
 ```text
 🌞 Morning    217 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.64% 
 🌆 Daytime    659 commits    ███████░░░░░░░░░░░░░░░░░░   29.26% 
-🌃 Evening    746 commits    ████████░░░░░░░░░░░░░░░░░   33.13% 
-🌙 Night      630 commits    ███████░░░░░░░░░░░░░░░░░░   27.98%
+🌃 Evening    745 commits    ████████░░░░░░░░░░░░░░░░░   33.08% 
+🌙 Night      631 commits    ███████░░░░░░░░░░░░░░░░░░   28.02%
 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       266 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.81% 
+Monday       267 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.86% 
 Tuesday      288 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.79% 
 Wednesday    281 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.48% 
 Thursday     343 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.23% 
 Friday       404 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.94% 
-Saturday     334 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.83% 
+Saturday     333 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.79% 
 Sunday       336 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.92%
 
 ```
@@ -100,7 +98,7 @@ Java                     6 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/aravindvnair99/aravindvnair99/main/charts/bar_graph.png) 
 
 
- Last Updated on 23/01/2022 15:32:52 UTC
+ Last Updated on 23/01/2022 21:29:41 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
