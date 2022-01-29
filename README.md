@@ -29,7 +29,7 @@
 
 > 🏆 95 Contributions in the Year 2022
  > 
-> 📦 861.0 kB Used in GitHub's Storage 
+> 📦 861.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -64,17 +64,17 @@ Sunday       336 commits    ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    13 hrs 12 mins      █████████████████████████   100.0%
+Other                    13 hrs 27 mins      █████████████████████████   100.0%
 
 🔥 Editors: 
-Browser                  5 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   42.51% 
-Unknown Editor           5 hrs 30 mins       ██████████░░░░░░░░░░░░░░░   41.63% 
-Bash                     2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.86%
+Unknown Editor           5 hrs 45 mins       ██████████░░░░░░░░░░░░░░░   42.72% 
+Browser                  5 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   41.72% 
+Bash                     2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.57%
 
 💻 Operating System: 
-Windows                  5 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   42.51% 
-Unknown OS               5 hrs 30 mins       ██████████░░░░░░░░░░░░░░░   41.63% 
-Linux                    2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.86%
+Unknown OS               5 hrs 45 mins       ██████████░░░░░░░░░░░░░░░   42.72% 
+Windows                  5 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   41.72% 
+Linux                    2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.57%
 
 ```
 
@@ -95,7 +95,7 @@ Java                     6 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/aravindvnair99/aravindvnair99/main/charts/bar_graph.png) 
 
 
- Last Updated on 28/01/2022 21:34:40 UTC
+ Last Updated on 29/01/2022 03:30:00 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
