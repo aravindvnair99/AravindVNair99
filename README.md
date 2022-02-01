@@ -64,15 +64,15 @@ Sunday       336 commits    ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    10 hrs 5 mins       █████████████████████████   100.0%
+Other                    7 hrs 31 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-Unknown Editor           6 hrs               ██████████████░░░░░░░░░░░   59.43% 
-Bash                     4 hrs 5 mins        ██████████░░░░░░░░░░░░░░░   40.57%
+Bash                     3 hrs 46 mins       ████████████░░░░░░░░░░░░░   50.22% 
+Unknown Editor           3 hrs 45 mins       ████████████░░░░░░░░░░░░░   49.78%
 
 💻 Operating System: 
-Unknown OS               6 hrs               ██████████████░░░░░░░░░░░   59.43% 
-Linux                    4 hrs 5 mins        ██████████░░░░░░░░░░░░░░░   40.57%
+Linux                    3 hrs 46 mins       ████████████░░░░░░░░░░░░░   50.22% 
+Unknown OS               3 hrs 45 mins       ████████████░░░░░░░░░░░░░   49.78%
 
 ```
 
@@ -93,7 +93,7 @@ Java                     6 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/aravindvnair99/aravindvnair99/main/charts/bar_graph.png) 
 
 
- Last Updated on 31/01/2022 21:29:52 UTC
+ Last Updated on 01/02/2022 03:29:26 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
