@@ -21,13 +21,15 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AravindVNair99&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C864%20hrs%2012%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--1%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 97 Contributions in the Year 2022
  > 
-> 📦 860.8 kB Used in GitHub's Storage 
+> 📦 860.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -62,15 +64,15 @@ Sunday       335 commits    ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    6 hrs 26 mins       █████████████████████████   100.0%
+Other                    6 hrs 41 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-Unknown Editor           3 hrs 15 mins       ████████████░░░░░░░░░░░░░   50.4% 
-Bash                     3 hrs 11 mins       ████████████░░░░░░░░░░░░░   49.6%
+Unknown Editor           3 hrs 30 mins       █████████████░░░░░░░░░░░░   52.25% 
+Bash                     3 hrs 11 mins       ████████████░░░░░░░░░░░░░   47.75%
 
 💻 Operating System: 
-Unknown OS               3 hrs 15 mins       ████████████░░░░░░░░░░░░░   50.4% 
-Linux                    3 hrs 11 mins       ████████████░░░░░░░░░░░░░   49.6%
+Unknown OS               3 hrs 30 mins       █████████████░░░░░░░░░░░░   52.25% 
+Linux                    3 hrs 11 mins       ████████████░░░░░░░░░░░░░   47.75%
 
 ```
 
@@ -91,7 +93,7 @@ Java                     6 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/aravindvnair99/aravindvnair99/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/02/2022 21:29:49 UTC
+ Last Updated on 04/02/2022 03:29:17 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
