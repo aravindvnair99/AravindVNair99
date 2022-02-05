@@ -21,41 +21,41 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AravindVNair99&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C864%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C866%20hrs%205%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--1%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 97 Contributions in the Year 2022
+> 🏆 100 Contributions in the Year 2022
  > 
 > 📦 860.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 70 Public Repositories 
+> 📜 71 Public Repositories 
  > 
 > 🔑 16 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    217 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.58% 
-🌆 Daytime    662 commits    ███████░░░░░░░░░░░░░░░░░░   29.24% 
-🌃 Evening    750 commits    ████████░░░░░░░░░░░░░░░░░   33.13% 
-🌙 Night      635 commits    ███████░░░░░░░░░░░░░░░░░░   28.05%
+🌞 Morning    217 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.65% 
+🌆 Daytime    657 commits    ███████░░░░░░░░░░░░░░░░░░   29.21% 
+🌃 Evening    742 commits    ████████░░░░░░░░░░░░░░░░░   32.99% 
+🌙 Night      633 commits    ███████░░░░░░░░░░░░░░░░░░   28.15%
 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       265 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.7% 
-Tuesday      291 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.85% 
-Wednesday    283 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-Thursday     346 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.28% 
-Friday       412 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.2% 
-Saturday     332 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.66% 
-Sunday       335 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.8%
+Monday       264 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.74% 
+Tuesday      284 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.63% 
+Wednesday    282 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.54% 
+Thursday     343 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.25% 
+Friday       410 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.23% 
+Saturday     332 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.76% 
+Sunday       334 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.85%
 
 ```
 
@@ -93,7 +93,7 @@ Java                     6 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/aravindvnair99/aravindvnair99/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/02/2022 09:30:11 UTC
+ Last Updated on 05/02/2022 01:06:07 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
