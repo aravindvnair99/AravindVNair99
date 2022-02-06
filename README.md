@@ -21,15 +21,13 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AravindVNair99&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C867%20hrs%206%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--1%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 110 Contributions in the Year 2022
+> 🏆 115 Contributions in the Year 2022
  > 
-> 📦 860.8 kB Used in GitHub's Storage 
+> 📦 861.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -64,15 +62,15 @@ Sunday       336 commits    ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    8 hrs 33 mins       █████████████████████████   100.0%
+Other                    7 hrs 5 mins        █████████████████████████   100.0%
 
 🔥 Editors: 
-Unknown Editor           4 hrs 30 mins       █████████████░░░░░░░░░░░░   52.61% 
-Bash                     4 hrs 3 mins        ███████████░░░░░░░░░░░░░░   47.39%
+Unknown Editor           4 hrs 45 mins       ████████████████░░░░░░░░░   67.01% 
+Bash                     2 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   32.99%
 
 💻 Operating System: 
-Unknown OS               4 hrs 30 mins       █████████████░░░░░░░░░░░░   52.61% 
-Linux                    4 hrs 3 mins        ███████████░░░░░░░░░░░░░░   47.39%
+Unknown OS               4 hrs 45 mins       ████████████████░░░░░░░░░   67.01% 
+Linux                    2 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   32.99%
 
 ```
 
@@ -93,7 +91,7 @@ Java                     6 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/aravindvnair99/aravindvnair99/main/charts/bar_graph.png) 
 
 
- Last Updated on 06/02/2022 18:36:44 UTC
+ Last Updated on 06/02/2022 21:26:55 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
