@@ -21,15 +21,13 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AravindVNair99&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C879%20hrs%2031%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--1%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 142 Contributions in the Year 2022
  > 
-> 📦 863.0 kB Used in GitHub's Storage 
+> 📦 863.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -64,16 +62,16 @@ Sunday       362 commits    ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    8 hrs 44 mins       ████████████████████████░   98.15% 
-JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.85%
+Other                    9 hrs               ████████████████████████░   98.2% 
+JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.8%
 
 🔥 Editors: 
-Unknown Editor           8 hrs 44 mins       ████████████████████████░   98.15% 
-VS Code                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.85%
+Unknown Editor           9 hrs               ████████████████████████░   98.2% 
+VS Code                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.8%
 
 💻 Operating System: 
-Unknown OS               8 hrs 44 mins       ████████████████████████░   98.15% 
-Linux                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.85%
+Unknown OS               9 hrs               ████████████████████████░   98.2% 
+Linux                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.8%
 
 ```
 
@@ -94,7 +92,7 @@ Java                     6 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/aravindvnair99/aravindvnair99/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/02/2022 18:36:26 UTC
+ Last Updated on 16/02/2022 21:36:05 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
