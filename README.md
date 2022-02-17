@@ -21,11 +21,13 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AravindVNair99&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C880%20hrs%2031%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--1%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 142 Contributions in the Year 2022
+> 🏆 145 Contributions in the Year 2022
  > 
 > 📦 863.1 kB Used in GitHub's Storage 
  > 
@@ -38,8 +40,8 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    189 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.39% 
-🌆 Daytime    629 commits    ███████░░░░░░░░░░░░░░░░░░   27.92% 
+🌞 Morning    190 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.43% 
+🌆 Daytime    628 commits    ███████░░░░░░░░░░░░░░░░░░   27.87% 
 🌃 Evening    704 commits    ███████░░░░░░░░░░░░░░░░░░   31.25% 
 🌙 Night      731 commits    ████████░░░░░░░░░░░░░░░░░   32.45%
 
@@ -48,9 +50,9 @@
 
 ```text
 Monday       267 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.85% 
-Tuesday      294 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.05% 
+Tuesday      293 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.0% 
 Wednesday    300 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.32% 
-Thursday     309 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.72% 
+Thursday     310 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.76% 
 Friday       398 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.67% 
 Saturday     323 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.34% 
 Sunday       362 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.07%
@@ -92,7 +94,7 @@ Java                     6 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/aravindvnair99/aravindvnair99/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/02/2022 21:36:05 UTC
+ Last Updated on 17/02/2022 06:41:28 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
