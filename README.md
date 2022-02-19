@@ -21,8 +21,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AravindVNair99&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C882%20hrs%209%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--1%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -64,16 +62,16 @@ Sunday       362 commits    ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    7 hrs 38 mins       ████████████████████████░   97.89% 
-JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.11%
+Other                    6 hrs 23 mins       ████████████████████████░   97.49% 
+JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.51%
 
 🔥 Editors: 
-Unknown Editor           7 hrs 15 mins       ███████████████████████░░   92.88% 
-VS Code                  33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.12%
+Unknown Editor           6 hrs               ███████████████████████░░   91.52% 
+VS Code                  33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.48%
 
 💻 Operating System: 
-Unknown OS               7 hrs 15 mins       ███████████████████████░░   92.88% 
-Linux                    33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.12%
+Unknown OS               6 hrs               ███████████████████████░░   91.52% 
+Linux                    33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.48%
 
 ```
 
@@ -94,7 +92,7 @@ Java                     6 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/aravindvnair99/aravindvnair99/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/02/2022 18:38:14 UTC
+ Last Updated on 19/02/2022 21:28:03 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
