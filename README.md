@@ -21,8 +21,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AravindVNair99&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C885%20hrs%2020%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--1%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -64,16 +62,17 @@ Sunday       365 commits    ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    6 hrs 48 mins       █████████████████████████   100.0%
+Other                    6 hrs 33 mins       █████████████████████████   100.0% 
+EJS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-Unknown Editor           5 hrs 30 mins       ████████████████████░░░░░   80.7% 
-Bash                     55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.56% 
-VS Code                  23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.74%
+Unknown Editor           5 hrs 15 mins       ████████████████████░░░░░   79.97% 
+Bash                     55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.08% 
+VS Code                  23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.96%
 
 💻 Operating System: 
-Unknown OS               5 hrs 30 mins       ████████████████████░░░░░   80.7% 
-Linux                    1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   19.3%
+Unknown OS               5 hrs 15 mins       ████████████████████░░░░░   79.97% 
+Linux                    1 hr 18 mins        █████░░░░░░░░░░░░░░░░░░░░   20.03%
 
 ```
 
@@ -94,7 +93,7 @@ Java                     6 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/aravindvnair99/aravindvnair99/main/charts/bar_graph.png) 
 
 
- Last Updated on 22/02/2022 18:36:45 UTC
+ Last Updated on 22/02/2022 21:33:02 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
