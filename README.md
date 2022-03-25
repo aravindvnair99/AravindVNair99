@@ -21,7 +21,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AravindVNair99&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C917%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C918%20hrs%204%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--1%20Million%20lines%20of%20code-blue)
 
@@ -64,15 +64,15 @@ Sunday       432 commits    ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    6 hrs 43 mins       █████████████████████████   100.0%
+Other                    6 hrs 28 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-Unknown Editor           6 hrs 15 mins       ███████████████████████░░   92.92% 
-Bash                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.08%
+Unknown Editor           6 hrs               ███████████████████████░░   92.65% 
+Bash                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.35%
 
 💻 Operating System: 
-Unknown OS               6 hrs 15 mins       ███████████████████████░░   92.92% 
-Linux                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.08%
+Unknown OS               6 hrs               ███████████████████████░░   92.65% 
+Linux                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.35%
 
 ```
 
@@ -93,7 +93,7 @@ Java                     6 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/aravindvnair99/aravindvnair99/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/03/2022 09:34:08 UTC
+ Last Updated on 25/03/2022 01:34:32 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
