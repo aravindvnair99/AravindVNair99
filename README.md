@@ -21,15 +21,15 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AravindVNair99&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C933%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C934%20hrs%205%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--1%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 208 Contributions in the Year 2022
+> 🏆 209 Contributions in the Year 2022
  > 
-> 📦 865.8 kB Used in GitHub's Storage 
+> 📦 865.9 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -64,15 +64,15 @@ Sunday       438 commits    ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    9 hrs 50 mins       █████████████████████████   100.0%
+Other                    12 hrs 16 mins      █████████████████████████   100.0%
 
 🔥 Editors: 
-Unknown Editor           8 hrs 30 mins       █████████████████████░░░░   86.4% 
-Bash                     1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.6%
+Unknown Editor           8 hrs 30 mins       █████████████████░░░░░░░░   69.23% 
+Bash                     3 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   30.77%
 
 💻 Operating System: 
-Unknown OS               8 hrs 30 mins       █████████████████████░░░░   86.4% 
-Linux                    1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.6%
+Unknown OS               8 hrs 30 mins       █████████████████░░░░░░░░   69.23% 
+Linux                    3 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   30.77%
 
 ```
 
@@ -93,7 +93,7 @@ Java                     6 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/aravindvnair99/aravindvnair99/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/04/2022 15:31:19 UTC
+ Last Updated on 04/04/2022 01:40:41 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
