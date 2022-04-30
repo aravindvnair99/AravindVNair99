@@ -21,7 +21,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AravindVNair99&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C964%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C961%20hrs%2051%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--1%20Million%20lines%20of%20code-blue)
 
@@ -64,17 +64,15 @@ Sunday       523 commits    ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    7 hrs 54 mins       ████████████████████████░   98.66% 
-Debian Sourcelist        6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.34%
+Other                    7 hrs 39 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-Unknown Editor           6 hrs 15 mins       ███████████████████░░░░░░   77.9% 
-Bash                     1 hr 39 mins        █████░░░░░░░░░░░░░░░░░░░░   20.76% 
-VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.34%
+Unknown Editor           6 hrs               ███████████████████░░░░░░   78.27% 
+Bash                     1 hr 39 mins        █████░░░░░░░░░░░░░░░░░░░░   21.73%
 
 💻 Operating System: 
-Unknown OS               6 hrs 15 mins       ███████████████████░░░░░░   77.9% 
-Linux                    1 hr 46 mins        █████░░░░░░░░░░░░░░░░░░░░   22.1%
+Unknown OS               6 hrs               ███████████████████░░░░░░   78.27% 
+Linux                    1 hr 39 mins        █████░░░░░░░░░░░░░░░░░░░░   21.73%
 
 ```
 
@@ -95,7 +93,7 @@ Java                     6 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/aravindvnair99/aravindvnair99/main/charts/bar_graph.png) 
 
 
- Last Updated on 29/04/2022 21:31:34 UTC
+ Last Updated on 30/04/2022 06:35:29 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
