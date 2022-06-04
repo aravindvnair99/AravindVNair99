@@ -21,7 +21,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AravindVNair99&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C997%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--1%20Million%20lines%20of%20code-blue)
 
@@ -41,21 +41,21 @@
 
 ```text
 🌞 Morning    308 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.56% 
-🌆 Daytime    794 commits    ██████░░░░░░░░░░░░░░░░░░░   27.22% 
-🌃 Evening    937 commits    ████████░░░░░░░░░░░░░░░░░   32.12% 
-🌙 Night      878 commits    ███████░░░░░░░░░░░░░░░░░░   30.1%
+🌆 Daytime    793 commits    ██████░░░░░░░░░░░░░░░░░░░   27.19% 
+🌃 Evening    937 commits    ████████░░░░░░░░░░░░░░░░░   32.13% 
+🌙 Night      878 commits    ███████░░░░░░░░░░░░░░░░░░   30.11%
 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
 Monday       396 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.58% 
-Tuesday      409 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.02% 
-Wednesday    363 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.44% 
+Tuesday      409 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.03% 
+Wednesday    363 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.45% 
 Thursday     401 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.75% 
-Friday       445 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.26% 
-Saturday     405 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.88% 
-Sunday       498 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.07%
+Friday       444 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.23% 
+Saturday     405 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.89% 
+Sunday       498 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.08%
 
 ```
 
@@ -91,7 +91,7 @@ Java                     6 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/aravindvnair99/aravindvnair99/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/06/2022 15:41:42 UTC
+ Last Updated on 04/06/2022 18:44:42 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
