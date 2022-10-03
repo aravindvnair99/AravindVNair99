@@ -21,7 +21,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AravindVNair99&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C100%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C103%20hrs%2023%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--1%20Million%20lines%20of%20code-blue)
 
@@ -64,13 +64,18 @@ Sunday       356 commits    ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    6 hrs               █████████████████████████   100.0%
+Other                    5 hrs 45 mins       █████████████████████░░░░   85.57% 
+JSON                     46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.63% 
+YAML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.99% 
+EJS                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.81%
 
 🔥 Editors: 
-Google Calendar          6 hrs               █████████████████████████   100.0%
+Google Calendar          5 hrs 45 mins       █████████████████████░░░░   85.57% 
+VS Code                  58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.43%
 
 💻 Operating System: 
-Unknown OS               6 hrs               █████████████████████████   100.0%
+Unknown OS               5 hrs 45 mins       █████████████████████░░░░   85.57% 
+WSL                      58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.43%
 
 ```
 
@@ -91,7 +96,7 @@ Java                     6 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/aravindvnair99/aravindvnair99/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/10/2022 18:46:14 UTC
+ Last Updated on 03/10/2022 21:34:43 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
