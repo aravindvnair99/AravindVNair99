@@ -21,7 +21,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AravindVNair99&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C109%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C111%20hrs%208%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--1%20Million%20lines%20of%20code-blue)
 
@@ -29,7 +29,7 @@
 
 > 🏆 350 Contributions in the Year 2022
  > 
-> 📦 840.5 kB Used in GitHub's Storage 
+> 📦 840.9 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -64,18 +64,18 @@ Sunday       356 commits    ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    8 hrs 45 mins       ██████████████████████░░░   90.02% 
-JSON                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.04% 
-YAML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.38% 
-EJS                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.56%
+Other                    8 hrs 30 mins       ██████████████████████░░░   89.76% 
+JSON                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.25% 
+YAML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.42% 
+EJS                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.58%
 
 🔥 Editors: 
-Google Calendar          8 hrs 45 mins       ██████████████████████░░░   90.02% 
-VS Code                  58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.98%
+Google Calendar          8 hrs 30 mins       ██████████████████████░░░   89.76% 
+VS Code                  58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.24%
 
 💻 Operating System: 
-Unknown OS               8 hrs 45 mins       ██████████████████████░░░   90.02% 
-WSL                      58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.98%
+Unknown OS               8 hrs 30 mins       ██████████████████████░░░   89.76% 
+WSL                      58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.24%
 
 ```
 
@@ -96,7 +96,7 @@ Java                     6 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/aravindvnair99/aravindvnair99/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/10/2022 18:46:32 UTC
+ Last Updated on 09/10/2022 21:39:49 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
