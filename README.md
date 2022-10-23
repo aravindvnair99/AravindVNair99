@@ -21,15 +21,15 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AravindVNair99&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C124%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C126%20hrs%2023%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--1%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 361 Contributions in the Year 2022
+> 🏆 366 Contributions in the Year 2022
  > 
-> 📦 841.5 kB Used in GitHub's Storage 
+> 📦 841.6 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -42,19 +42,19 @@
 ```text
 🌞 Morning    260 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.58% 
 🌆 Daytime    547 commits    ██████░░░░░░░░░░░░░░░░░░░   24.37% 
-🌃 Evening    690 commits    ███████░░░░░░░░░░░░░░░░░░   30.73% 
-🌙 Night      748 commits    ████████░░░░░░░░░░░░░░░░░   33.32%
+🌃 Evening    689 commits    ███████░░░░░░░░░░░░░░░░░░   30.69% 
+🌙 Night      749 commits    ████████░░░░░░░░░░░░░░░░░   33.36%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       342 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.23% 
+Monday       344 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.32% 
 Tuesday      377 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.79% 
-Wednesday    297 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.23% 
+Wednesday    296 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.18% 
 Thursday     279 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.43% 
 Friday       283 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.61% 
-Saturday     314 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.99% 
+Saturday     313 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.94% 
 Sunday       353 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.72%
 
 ```
@@ -64,13 +64,13 @@ Sunday       353 commits    ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    7 hrs               █████████████████████████   100.0%
+Other                    7 hrs 15 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-Google Calendar          7 hrs               █████████████████████████   100.0%
+Google Calendar          7 hrs 15 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Unknown OS               7 hrs               █████████████████████████   100.0%
+Unknown OS               7 hrs 15 mins       █████████████████████████   100.0%
 
 ```
 
@@ -91,7 +91,7 @@ Java                     6 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/aravindvnair99/aravindvnair99/main/charts/bar_graph.png) 
 
 
- Last Updated on 23/10/2022 18:41:10 UTC
+ Last Updated on 23/10/2022 21:33:34 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
