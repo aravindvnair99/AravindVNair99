@@ -29,7 +29,7 @@
 
 > 🏆 378 Contributions in the Year 2022
  > 
-> 📦 840.4 kB Used in GitHub's Storage 
+> 📦 840.6 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -64,13 +64,13 @@ Sunday       305 commits    ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    3 hrs 15 mins       █████████████████████████   100.0%
+Other                    2 hrs 45 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-Google Calendar          3 hrs 15 mins       █████████████████████████   100.0%
+Google Calendar          2 hrs 45 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Unknown OS               3 hrs 15 mins       █████████████████████████   100.0%
+Unknown OS               2 hrs 45 mins       █████████████████████████   100.0%
 
 ```
 
@@ -91,7 +91,7 @@ Java                     6 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/aravindvnair99/aravindvnair99/main/charts/bar_graph.png) 
 
 
- Last Updated on 08/11/2022 18:53:21 UTC
+ Last Updated on 08/11/2022 21:32:19 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
