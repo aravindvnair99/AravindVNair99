@@ -37,43 +37,6 @@
  > 
 > 🔑 16 Private Repositories  
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    252 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.63% 
-🌆 Daytime    544 commits    ██████░░░░░░░░░░░░░░░░░░░   25.1% 
-🌃 Evening    659 commits    ███████░░░░░░░░░░░░░░░░░░   30.41% 
-🌙 Night      712 commits    ████████░░░░░░░░░░░░░░░░░   32.86%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       343 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.83% 
-Tuesday      376 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.35% 
-Wednesday    296 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.66% 
-Thursday     278 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.83% 
-Friday       273 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.6% 
-Saturday     296 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.66% 
-Sunday       305 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.07%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Other                    2 hrs 45 mins       █████████████████████████   100.0%
-
-🔥 Editors: 
-Google Calendar          2 hrs 45 mins       █████████████████████████   100.0%
-
-💻 Operating System: 
-Unknown OS               2 hrs 45 mins       █████████████████████████   100.0%
-
-```
-
 **I Mostly Code in HTML** 
 
 ```text
@@ -91,7 +54,7 @@ Java                     6 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/aravindvnair99/aravindvnair99/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/11/2022 15:40:57 UTC
+ Last Updated on 09/11/2022 18:39:22 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
