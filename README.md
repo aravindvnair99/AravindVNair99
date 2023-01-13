@@ -29,7 +29,7 @@
 
 > 🏆 20 Contributions in the Year 2023
  > 
-> 📦 842.4 kB Used in GitHub's Storage 
+> 📦 842.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -91,7 +91,7 @@ Java                     6 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/aravindvnair99/aravindvnair99/main/charts/bar_graph.png) 
 
 
- Last Updated on 13/01/2023 09:41:29 UTC
+ Last Updated on 13/01/2023 12:57:27 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
