@@ -64,13 +64,13 @@ Sunday       164 commits    ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    45 mins             █████████████████████████   100.0%
+Other                    30 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-Google Calendar          45 mins             █████████████████████████   100.0%
+Google Calendar          30 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Unknown OS               45 mins             █████████████████████████   100.0%
+Unknown OS               30 mins             █████████████████████████   100.0%
 
 ```
 
@@ -91,7 +91,7 @@ Java                     6 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/aravindvnair99/aravindvnair99/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/01/2023 18:35:41 UTC
+ Last Updated on 20/01/2023 21:28:08 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
