@@ -23,7 +23,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-6%2C149%20hrs%2036%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-46.4%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-46.3%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -62,13 +62,13 @@ Sunday                   427 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    34 mins             █████████████████████████   100.00 % 
+Other                    30 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Google Calendar          34 mins             █████████████████████████   100.00 % 
+Google Calendar          30 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Unknown OS               34 mins             █████████████████████████   100.00 % 
+Unknown OS               30 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -88,7 +88,7 @@ MATLAB                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aravindvnair99/aravindvnair99/main/assets/bar_graph.png)
 
 
- Last Updated on 26/02/2023 21:20:32 UTC
+ Last Updated on 27/02/2023 01:32:08 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
