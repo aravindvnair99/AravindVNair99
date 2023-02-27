@@ -23,38 +23,38 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-6%2C149%20hrs%2036%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-46.7%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-46.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 843.1 kB Used in GitHub's Storage 
+> 📦 841.8 kB Used in GitHub's Storage 
  > 
-> 🏆 81 Contributions in the Year 2023
+> 🏆 64 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
-> 📜 73 Public Repositories 
+> 📜 72 Public Repositories 
  > 
 > 🔑 16 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                329 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
-🌆 Daytime                824 commits         ███████░░░░░░░░░░░░░░░░░░   29.30 % 
-🌃 Evening                1023 commits        █████████░░░░░░░░░░░░░░░░   36.38 % 
-🌙 Night                  636 commits         ██████░░░░░░░░░░░░░░░░░░░   22.62 % 
+🌞 Morning                329 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+🌆 Daytime                813 commits         ███████░░░░░░░░░░░░░░░░░░   29.04 % 
+🌃 Evening                1022 commits        █████████░░░░░░░░░░░░░░░░   36.50 % 
+🌙 Night                  636 commits         ██████░░░░░░░░░░░░░░░░░░░   22.71 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   479 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
-Tuesday                  463 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
-Wednesday                299 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
-Thursday                 332 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
-Friday                   323 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-Saturday                 489 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-Sunday                   427 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
+Monday                   482 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
+Tuesday                  463 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
+Wednesday                299 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+Thursday                 332 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+Friday                   323 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+Saturday                 489 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
+Sunday                   412 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
 ```
 
 
@@ -88,7 +88,7 @@ MATLAB                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aravindvnair99/aravindvnair99/main/assets/bar_graph.png)
 
 
- Last Updated on 27/02/2023 06:31:24 UTC
+ Last Updated on 27/02/2023 09:25:31 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
