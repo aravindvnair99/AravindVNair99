@@ -20,15 +20,15 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AravindVNair99&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C151%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C151%20hrs%2021%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-108.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 842.8 kB Used in GitHub's Storage 
+> 📦 842.9 kB Used in GitHub's Storage 
  > 
-> 🏆 146 Contributions in the Year 2023
+> 🏆 150 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -41,7 +41,7 @@
 ```text
 🌞 Morning                8358 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
 🌆 Daytime                24338 commits       ████████░░░░░░░░░░░░░░░░░   31.78 % 
-🌃 Evening                24958 commits       ████████░░░░░░░░░░░░░░░░░   32.59 % 
+🌃 Evening                24960 commits       ████████░░░░░░░░░░░░░░░░░   32.59 % 
 🌙 Night                  18936 commits       ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
 ```
 📅 **I'm Most Productive on Saturday** 
@@ -51,7 +51,7 @@ Monday                   13000 commits       ████░░░░░░░�
 Tuesday                  11904 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
 Wednesday                8837 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
 Thursday                 9191 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Friday                   9614 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+Friday                   9616 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
 Saturday                 13474 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
 Sunday                   10570 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
 ```
@@ -87,7 +87,7 @@ MATLAB                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aravindvnair99/aravindvnair99/main/assets/bar_graph.png)
 
 
- Last Updated on 31/03/2023 15:33:09 UTC
+ Last Updated on 31/03/2023 18:36:43 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
