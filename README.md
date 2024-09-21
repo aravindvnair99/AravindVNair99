@@ -28,7 +28,7 @@
 
 > 📦 850.3 kB Used in GitHub's Storage 
  > 
-> 🏆 275 Contributions in the Year 2024
+> 🏆 276 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -70,11 +70,11 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in HTML** 
 
 ```text
-JavaScript               21 repos            ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
 HTML                     21 repos            ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
+JavaScript               20 repos            ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
 CSS                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 Jupyter Notebook         4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
 MATLAB                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
@@ -87,7 +87,7 @@ MATLAB                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aravindvnair99/aravindvnair99/main/assets/bar_graph.png)
 
 
- Last Updated on 21/09/2024 12:55:29 UTC
+ Last Updated on 21/09/2024 15:40:53 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
