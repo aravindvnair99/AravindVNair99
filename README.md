@@ -20,6 +20,8 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AravindVNair99&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C177%20hrs%206%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-179.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -34,6 +36,40 @@
  > 
 > 🔑 16 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                16063 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+🌆 Daytime                44668 commits       ████████░░░░░░░░░░░░░░░░░   31.51 % 
+🌃 Evening                46314 commits       ████████░░░░░░░░░░░░░░░░░   32.67 % 
+🌙 Night                  34719 commits       ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   26215 commits       █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
+Tuesday                  23564 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
+Wednesday                15471 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Thursday                 16087 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+Friday                   16494 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+Saturday                 24343 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
+Sunday                   19590 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in HTML** 
 
 ```text
@@ -51,7 +87,7 @@ MATLAB                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aravindvnair99/aravindvnair99/main/assets/bar_graph.png)
 
 
- Last Updated on 03/11/2024 18:44:34 UTC
+ Last Updated on 03/11/2024 21:36:09 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
