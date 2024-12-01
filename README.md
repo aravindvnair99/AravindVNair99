@@ -26,7 +26,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 851.7 kB Used in GitHub's Storage 
+> 📦 851.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 323 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -85,7 +87,7 @@ MATLAB                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aravindvnair99/aravindvnair99/main/assets/bar_graph.png)
 
 
- Last Updated on 01/12/2024 06:50:09 UTC
+ Last Updated on 01/12/2024 09:39:14 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
