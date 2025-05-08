@@ -20,13 +20,15 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AravindVNair99&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C178%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C179%20hrs%206%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-189.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 852.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 26 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -59,13 +61,13 @@ Sunday                   20682 commits       ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    1 hr                █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Google Calendar          1 hr                █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Unknown OS               1 hr                █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -85,7 +87,7 @@ MATLAB                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aravindvnair99/aravindvnair99/main/assets/bar_graph.png)
 
 
- Last Updated on 08/05/2025 18:48:54 UTC
+ Last Updated on 08/05/2025 21:45:33 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
