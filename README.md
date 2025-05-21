@@ -20,11 +20,13 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AravindVNair99&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-189.6%20million%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C179%20hrs%206%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-189.9%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 852.5 kB Used in GitHub's Storage 
+> 📦 852.9 kB Used in GitHub's Storage 
  > 
 > 🏆 30 Contributions in the Year 2025
  > 
@@ -37,21 +39,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                16801 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-🌆 Daytime                47569 commits       ████████░░░░░░░░░░░░░░░░░   31.74 % 
-🌃 Evening                48909 commits       ████████░░░░░░░░░░░░░░░░░   32.64 % 
-🌙 Night                  36583 commits       ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
+🌞 Morning                16841 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+🌆 Daytime                47667 commits       ████████░░░░░░░░░░░░░░░░░   31.73 % 
+🌃 Evening                49030 commits       ████████░░░░░░░░░░░░░░░░░   32.63 % 
+🌙 Night                  36700 commits       ██████░░░░░░░░░░░░░░░░░░░   24.43 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   27934 commits       █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
-Tuesday                  25082 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
-Wednesday                16290 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-Thursday                 16751 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
-Friday                   17451 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
-Saturday                 25470 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
-Sunday                   20884 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+Monday                   27966 commits       █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
+Tuesday                  25164 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
+Wednesday                16318 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+Thursday                 16772 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+Friday                   17488 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
+Saturday                 25593 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
+Sunday                   20937 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
 ```
 
 
@@ -85,7 +87,7 @@ MATLAB                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aravindvnair99/aravindvnair99/main/assets/bar_graph.png)
 
 
- Last Updated on 21/05/2025 18:54:30 UTC
+ Last Updated on 21/05/2025 21:38:16 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
