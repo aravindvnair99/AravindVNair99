@@ -2,7 +2,7 @@
 
 - 🏢 I work at Amazon Web Services as a Level 5 Cloud Operations Engineer II on the AWS Managed Cloud team and am also a member of the AMS Operations Enablement Tool support team.
 - 🌱 I’m currently learning more about [Amazon Web Services](https://aws.amazon.com)
-- 👯 I'm looking for people to help me develop and maintain [Spot the Hole](https://github.com/AravindVNair99/Spot-the-Hole) and [Amrita Hall Management System](https://github.com/AravindVNair99/Hall-Management-System)
+- 👯 I'm looking for people to help me develop and maintain [Spot the Hole](https://github.com/AravindVNair99/Spot-the-Hole) and [Hall Management System](https://github.com/AravindVNair99/Hall-Management-System)
 - 💬 Ask me about anything [here](https://github.com/AravindVNair99/AravindVNair99/discussions)
 - 📫 How to reach me: [Post here](https://github.com/aravindvnair99/AravindVNair99/discussions)
 - ⚡ Fun fact: Kung Fu black belt martial artist
