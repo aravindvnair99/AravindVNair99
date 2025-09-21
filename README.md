@@ -73,11 +73,11 @@ Unknown OS               10 mins             ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               20 repos            ██████░░░░░░░░░░░░░░░░░░░   22.99 % 
-HTML                     20 repos            ██████░░░░░░░░░░░░░░░░░░░   22.99 % 
-CSS                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-Jupyter Notebook         4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
-MATLAB                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+JavaScript               20 repos            ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
+HTML                     20 repos            ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
+CSS                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+Jupyter Notebook         4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+MATLAB                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 ```
 
 
@@ -87,7 +87,7 @@ MATLAB                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aravindvnair99/aravindvnair99/main/assets/bar_graph.png)
 
 
- Last Updated on 21/09/2025 12:58:11 UTC
+ Last Updated on 21/09/2025 15:37:05 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
