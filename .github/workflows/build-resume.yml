@@ -1,0 +1,88 @@
+name: Build Resume Templates
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'resume/**'
+      - '.github/workflows/build-resume.yml'
+  workflow_dispatch:
+
+jobs:
+  build-latex:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        template: [sb2nov, awesome-cv, deedy-resume, moderncv, altacv, rover]
+    
+    steps:
+      - uses: actions/checkout@v6
+      
+      - name: Compile LaTeX - ${{ matrix.template }}
+        uses: xu-cheng/latex-action@v4
+        with:
+          root_file: resume.tex
+          working_directory: resume/latex/${{ matrix.template }}
+        continue-on-error: true
+      
+      - name: Upload PDF - ${{ matrix.template }}
+        uses: actions/upload-artifact@v6
+        with:
+          name: resume-${{ matrix.template }}
+          path: resume/latex/${{ matrix.template }}/*.pdf
+        if: always()
+
+  build-json-resume:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        theme: [elegant, class, stackoverflow, flat, actual]
+    
+    steps:
+      - uses: actions/checkout@v6
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      
+      - name: Install dependencies
+        run: |
+          npm install -g resume-cli
+          cd resume/json-resume
+          npm install
+      
+      - name: Generate PDF - ${{ matrix.theme }}
+        run: |
+          cd resume/json-resume
+          resume export resume-${{ matrix.theme }}.pdf --theme ${{ matrix.theme }}
+        continue-on-error: true
+      
+      - name: Upload PDF - ${{ matrix.theme }}
+        uses: actions/upload-artifact@v6
+        with:
+          name: resume-json-${{ matrix.theme }}
+          path: resume/json-resume/*.pdf
+        if: always()
+
+  create-release:
+    needs: [build-latex, build-json-resume]
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
+    permissions:
+      contents: write
+    
+    steps:
+      - uses: actions/download-artifact@v7
+        with:
+          path: artifacts
+      
+      - name: Create Release with GitHub CLI
+        run: |
+          gh release create resume-${{ github.run_number }} \
+            --title "Resume Build ${{ github.run_number }}" \
+            --notes "Automated resume build from commit ${{ github.sha }}" \
+            artifacts/**/*.pdf
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
