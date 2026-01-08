@@ -1,7 +1,7 @@
 {
   "name": "json-resume",
   "version": "1.0.0",
-  "description": "",
+  "description": "JSON Resume themes and dependencies for resume generation",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
