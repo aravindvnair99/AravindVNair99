@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        template: [sb2nov, awesome-cv, deedy-resume, moderncv, altacv, rover]
+        template: [sb2nov, awesome-cv, deedy-resume, moderncv, altacv, rover, expressive-resume]
     
     steps:
       - uses: actions/checkout@v6

@@ -11,6 +11,7 @@ This folder contains 10 resume templates (5 LaTeX + 5 JSON Resume) that auto-com
 4. ModernCV
 5. AltaCV
 6. Rover
+7. Expressive-Resume
 
 ### JSON Resume Themes
 1. Elegant
