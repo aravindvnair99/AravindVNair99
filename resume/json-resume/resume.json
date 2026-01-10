@@ -1,0 +1,86 @@
+{
+  "basics": {
+    "name": "Aravind Nair",
+    "label": "Cloud Operations Engineer II (L5)",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "https://github.com/aravindvnair99",
+    "summary": "L5 Cloud Operations Engineer at AWS with 4+ years managing cloud infrastructure and operations for enterprise customers.",
+    "location": {
+      "city": "Sydney",
+      "countryCode": "AU",
+      "region": "New South Wales"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "aravindvnair99",
+        "url": "https://linkedin.com/in/aravindvnair99"
+      },
+      {
+        "network": "GitHub",
+        "username": "aravindvnair99",
+        "url": "https://github.com/aravindvnair99"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Amazon Web Services",
+      "position": "Cloud Operations Engineer II (L5)",
+      "url": "https://aws.amazon.com",
+      "startDate": "2025-08",
+      "endDate": "",
+      "summary": "Relocated to Sydney office",
+      "highlights": [
+        "Manage cloud infrastructure and operations for enterprise customers",
+        "Point of contact for AMS Live Contacts and customer operations desk"
+      ]
+    },
+    {
+      "name": "Amazon Web Services",
+      "position": "Cloud Operations Engineer II (L5)",
+      "url": "https://aws.amazon.com",
+      "startDate": "2024-04",
+      "endDate": "2025-08",
+      "summary": "Bengaluru, India",
+      "highlights": [
+        "Served as interim Team Lead for night shift operations (Dec 2024 - Mar 2025)",
+        "Conducted 15+ technical interviews and mentored 4 engineers through promotions"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Technology",
+      "startDate": "2017-07",
+      "endDate": "2021-06",
+      "score": "7.1 CGPA"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Cloud",
+      "keywords": ["AWS", "GCP", "Azure"]
+    },
+    {
+      "name": "Languages",
+      "keywords": ["Python", "JavaScript", "Node.js"]
+    },
+    {
+      "name": "Tools",
+      "keywords": ["Git", "Docker", "Kubernetes"]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "AWS Certified Solutions Architect - Associate",
+      "date": "2022-09",
+      "issuer": "Amazon Web Services"
+    }
+  ]
+}
