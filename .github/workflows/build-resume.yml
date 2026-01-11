@@ -15,6 +15,7 @@ on:
 
 jobs:
   build-latex:
+    name: build-latex (${{ matrix.template }})
     runs-on: ubuntu-latest
     permissions:
       contents: read
@@ -57,18 +58,24 @@ jobs:
         if: always()
 
   build-json-resume:
+    name: build-json-resume (${{ matrix.output }})
     runs-on: ubuntu-latest
     permissions:
       contents: read
     strategy:
       fail-fast: false
       matrix:
-        theme: 
-          - jsonresume-theme-elegant
-          - '@jsonresume/jsonresume-theme-class'
-          - jsonresume-theme-stackoverflow
-          - jsonresume-theme-flat
-          - jsonresume-theme-actual
+        include:
+          - theme: jsonresume-theme-elegant
+            output: elegant
+          - theme: '@jsonresume/jsonresume-theme-class'
+            output: class
+          - theme: jsonresume-theme-stackoverflow
+            output: stackoverflow
+          - theme: jsonresume-theme-flat
+            output: flat
+          - theme: jsonresume-theme-actual
+            output: actual
     
     steps:
       - uses: actions/checkout@v6
@@ -83,15 +90,15 @@ jobs:
           cd resume/json-resume
           npm ci
       
-      - name: Generate PDF - ${{ matrix.theme }}
+      - name: Generate PDF - ${{ matrix.output }}
         run: |
           cd resume/json-resume
-          npm run export -- --output resume-${{ matrix.theme }}.pdf --theme ${{ matrix.theme }} --puppeteer-arg="--no-sandbox" --puppeteer-arg="--disable-setuid-sandbox"
+          npm run export -- --output resume-${{ matrix.output }}.pdf --theme ${{ matrix.theme }} --puppeteer-arg="--no-sandbox" --puppeteer-arg="--disable-setuid-sandbox"
       
-      - name: Upload PDF - ${{ matrix.theme }}
+      - name: Upload PDF - ${{ matrix.output }}
         uses: actions/upload-artifact@v6
         with:
-          name: resume-json-${{ matrix.theme }}
+          name: resume-json-${{ matrix.output }}
           path: resume/json-resume/*.pdf
         if: always()
 
