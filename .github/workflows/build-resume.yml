@@ -32,10 +32,6 @@ jobs:
             use_xelatex: true
             extra_system_packages: "wget"
             pre_compile: "mkdir -p fonts/lato && cd fonts/lato && wget -q https://github.com/google/fonts/raw/main/ofl/lato/Lato-Light.ttf -O Lato-Lig.ttf && wget -q https://github.com/google/fonts/raw/main/ofl/lato/Lato-Regular.ttf -O Lato-Reg.ttf && wget -q https://github.com/google/fonts/raw/main/ofl/lato/Lato-Bold.ttf -O Lato-Bol.ttf && wget -q https://github.com/google/fonts/raw/main/ofl/lato/Lato-LightItalic.ttf -O Lato-LigIta.ttf && wget -q https://github.com/google/fonts/raw/main/ofl/lato/Lato-Italic.ttf -O Lato-RegIta.ttf && wget -q https://github.com/google/fonts/raw/main/ofl/lato/Lato-Thin.ttf -O Lato-Hai.ttf && cd ../.."
-          - template: moderncv
-            use_xelatex: false
-          - template: altacv
-            use_xelatex: false
           - template: rover
             use_xelatex: false
           - template: expressive-resume
@@ -88,7 +84,7 @@ jobs:
           cd resume/json-resume
           resume export resume-${{ matrix.theme }}.pdf --theme ${{ matrix.theme }}
         env:
-          PUPPETEER_LAUNCH_ARGS: "--no-sandbox --disable-setuid-sandbox"
+          RESUME_PUPPETEER_NO_SANDBOX: "true"
       
       - name: Upload PDF - ${{ matrix.theme }}
         uses: actions/upload-artifact@v6
