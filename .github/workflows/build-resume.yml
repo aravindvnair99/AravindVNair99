@@ -63,7 +63,12 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        theme: [elegant, '@jsonresume/jsonresume-theme-class', stackoverflow, flat, actual]
+        theme: 
+          - jsonresume-theme-elegant
+          - '@jsonresume/jsonresume-theme-class'
+          - jsonresume-theme-stackoverflow
+          - jsonresume-theme-flat
+          - jsonresume-theme-actual
     
     steps:
       - uses: actions/checkout@v6
