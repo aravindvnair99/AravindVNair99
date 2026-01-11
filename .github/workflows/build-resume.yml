@@ -80,14 +80,13 @@ jobs:
       
       - name: Install dependencies
         run: |
-          npm install -g resumed
           cd resume/json-resume
-          npm install
+          npm ci
       
       - name: Generate PDF - ${{ matrix.theme }}
         run: |
           cd resume/json-resume
-          resumed export resume.json --output resume-${{ matrix.theme }}.pdf --theme ${{ matrix.theme }} --puppeteer-arg="--no-sandbox" --puppeteer-arg="--disable-setuid-sandbox"
+          npm run export -- --output resume-${{ matrix.theme }}.pdf --theme ${{ matrix.theme }} --puppeteer-arg="--no-sandbox" --puppeteer-arg="--disable-setuid-sandbox"
       
       - name: Upload PDF - ${{ matrix.theme }}
         uses: actions/upload-artifact@v6
