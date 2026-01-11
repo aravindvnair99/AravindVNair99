@@ -31,7 +31,7 @@ jobs:
           - template: deedy-resume
             use_xelatex: true
             extra_system_packages: "wget"
-            pre_compile: "mkdir -p fonts/lato && cd fonts/lato && wget -q https://github.com/google/fonts/raw/main/ofl/lato/Lato-Light.ttf -O Lato-Lig.ttf && wget -q https://github.com/google/fonts/raw/main/ofl/lato/Lato-Regular.ttf -O Lato-Reg.ttf && wget -q https://github.com/google/fonts/raw/main/ofl/lato/Lato-Bold.ttf -O Lato-Bol.ttf && wget -q https://github.com/google/fonts/raw/main/ofl/lato/Lato-LightItalic.ttf -O Lato-LigIta.ttf && wget -q https://github.com/google/fonts/raw/main/ofl/lato/Lato-Italic.ttf -O Lato-RegIta.ttf && wget -q https://github.com/google/fonts/raw/main/ofl/lato/Lato-Thin.ttf -O Lato-Hai.ttf && cd ../.."
+            pre_compile: "mkdir -p fonts/lato fonts/raleway && cd fonts/lato && wget -q https://github.com/google/fonts/raw/main/ofl/lato/Lato-Light.ttf -O Lato-Lig.ttf && wget -q https://github.com/google/fonts/raw/main/ofl/lato/Lato-Regular.ttf -O Lato-Reg.ttf && wget -q https://github.com/google/fonts/raw/main/ofl/lato/Lato-Bold.ttf -O Lato-Bol.ttf && wget -q https://github.com/google/fonts/raw/main/ofl/lato/Lato-LightItalic.ttf -O Lato-LigIta.ttf && wget -q https://github.com/google/fonts/raw/main/ofl/lato/Lato-Italic.ttf -O Lato-RegIta.ttf && wget -q https://github.com/google/fonts/raw/main/ofl/lato/Lato-Thin.ttf -O Lato-Hai.ttf && cd ../raleway && wget -q https://fonts.gstatic.com/s/raleway/v37/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtaooCP.ttf -O Raleway-ExtraLight.ttf && wget -q https://fonts.gstatic.com/s/raleway/v37/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoooCP.ttf -O Raleway-Medium.ttf && cd ../.."
           - template: rover
             use_xelatex: false
           - template: expressive-resume
@@ -63,7 +63,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        theme: [elegant, class, stackoverflow, flat, actual]
+        theme: [elegant, '@jsonresume/jsonresume-theme-class', stackoverflow, flat, actual]
     
     steps:
       - uses: actions/checkout@v6
@@ -75,16 +75,14 @@ jobs:
       
       - name: Install dependencies
         run: |
-          npm install -g resume-cli
+          npm install -g resumed
           cd resume/json-resume
           npm install
       
       - name: Generate PDF - ${{ matrix.theme }}
         run: |
           cd resume/json-resume
-          resume export resume-${{ matrix.theme }}.pdf --theme ${{ matrix.theme }}
-        env:
-          RESUME_PUPPETEER_NO_SANDBOX: "true"
+          resumed export resume.json --output resume-${{ matrix.theme }}.pdf --theme ${{ matrix.theme }} --puppeteer-arg="--no-sandbox" --puppeteer-arg="--disable-setuid-sandbox"
       
       - name: Upload PDF - ${{ matrix.theme }}
         uses: actions/upload-artifact@v6
