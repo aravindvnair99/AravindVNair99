@@ -11,6 +11,8 @@ on:
 jobs:
   build-latex:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
     strategy:
       matrix:
         template: [sb2nov, awesome-cv, deedy-resume, moderncv, altacv, rover, expressive-resume]
@@ -34,6 +36,8 @@ jobs:
 
   build-json-resume:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
     strategy:
       matrix:
         theme: [elegant, class, stackoverflow, flat, actual]
