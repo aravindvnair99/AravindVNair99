@@ -21,7 +21,25 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        template: [sb2nov, awesome-cv, deedy-resume, moderncv, altacv, rover, expressive-resume]
+        include:
+          - template: sb2nov
+            use_xelatex: false
+          - template: awesome-cv
+            use_xelatex: true
+            extra_system_packages: "wget"
+            pre_compile: "wget -q https://github.com/adobe-fonts/source-sans/releases/download/3.052R/TTF-source-sans-3.052R.zip && unzip -q TTF-source-sans-3.052R.zip && mkdir -p ~/.fonts && cp TTF/*.ttf ~/.fonts/ && fc-cache -f"
+          - template: deedy-resume
+            use_xelatex: true
+            extra_system_packages: "wget"
+            pre_compile: "wget -q https://github.com/google/fonts/raw/main/ofl/lato/Lato-Light.ttf && mkdir -p ~/.fonts && cp Lato-Light.ttf ~/.fonts/ && fc-cache -f"
+          - template: moderncv
+            use_xelatex: false
+          - template: altacv
+            use_xelatex: false
+          - template: rover
+            use_xelatex: false
+          - template: expressive-resume
+            use_xelatex: false
     
     steps:
       - uses: actions/checkout@v6
@@ -31,7 +49,9 @@ jobs:
         with:
           root_file: resume.tex
           working_directory: resume/latex/${{ matrix.template }}
-          latexmk_use_xelatex: ${{ matrix.template == 'awesome-cv' || matrix.template == 'deedy-resume' }}
+          latexmk_use_xelatex: ${{ matrix.use_xelatex }}
+          extra_system_packages: ${{ matrix.extra_system_packages || '' }}
+          pre_compile: ${{ matrix.pre_compile || '' }}
       
       - name: Upload PDF - ${{ matrix.template }}
         uses: actions/upload-artifact@v6
