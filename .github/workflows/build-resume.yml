@@ -19,6 +19,7 @@ jobs:
     permissions:
       contents: read
     strategy:
+      fail-fast: false
       matrix:
         template: [sb2nov, awesome-cv, deedy-resume, moderncv, altacv, rover, expressive-resume]
     
@@ -30,7 +31,7 @@ jobs:
         with:
           root_file: resume.tex
           working_directory: resume/latex/${{ matrix.template }}
-        continue-on-error: true
+          latexmk_use_xelatex: ${{ matrix.template == 'awesome-cv' || matrix.template == 'deedy-resume' }}
       
       - name: Upload PDF - ${{ matrix.template }}
         uses: actions/upload-artifact@v6
@@ -44,6 +45,7 @@ jobs:
     permissions:
       contents: read
     strategy:
+      fail-fast: false
       matrix:
         theme: [elegant, class, stackoverflow, flat, actual]
     
@@ -65,7 +67,6 @@ jobs:
         run: |
           cd resume/json-resume
           resume export resume-${{ matrix.theme }}.pdf --theme ${{ matrix.theme }}
-        continue-on-error: true
       
       - name: Upload PDF - ${{ matrix.theme }}
         uses: actions/upload-artifact@v6
