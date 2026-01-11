@@ -31,7 +31,7 @@ jobs:
           - template: deedy-resume
             use_xelatex: true
             extra_system_packages: "wget"
-            pre_compile: "wget -q https://github.com/google/fonts/raw/main/ofl/lato/Lato-Light.ttf && mkdir -p ~/.fonts && cp Lato-Light.ttf ~/.fonts/ && fc-cache -f"
+            pre_compile: "mkdir -p fonts/lato && cd fonts/lato && wget -q https://github.com/google/fonts/raw/main/ofl/lato/Lato-Light.ttf -O Lato-Lig.ttf && wget -q https://github.com/google/fonts/raw/main/ofl/lato/Lato-Regular.ttf -O Lato-Reg.ttf && wget -q https://github.com/google/fonts/raw/main/ofl/lato/Lato-Bold.ttf -O Lato-Bol.ttf && wget -q https://github.com/google/fonts/raw/main/ofl/lato/Lato-LightItalic.ttf -O Lato-LigIta.ttf && wget -q https://github.com/google/fonts/raw/main/ofl/lato/Lato-Italic.ttf -O Lato-RegIta.ttf && wget -q https://github.com/google/fonts/raw/main/ofl/lato/Lato-Thin.ttf -O Lato-Hai.ttf && cd ../.."
           - template: moderncv
             use_xelatex: false
           - template: altacv
@@ -87,6 +87,8 @@ jobs:
         run: |
           cd resume/json-resume
           resume export resume-${{ matrix.theme }}.pdf --theme ${{ matrix.theme }}
+        env:
+          PUPPETEER_LAUNCH_ARGS: "--no-sandbox --disable-setuid-sandbox"
       
       - name: Upload PDF - ${{ matrix.theme }}
         uses: actions/upload-artifact@v6
