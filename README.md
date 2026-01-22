@@ -28,7 +28,7 @@
 
 > 📦 855.6 kB Used in GitHub's Storage 
  > 
-> 🏆 39 Contributions in the Year 2026
+> 🏆 40 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -73,11 +73,11 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               20 repos            ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
-HTML                     20 repos            ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
-EJS                      13 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
-Jupyter Notebook         4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
-MATLAB                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+JavaScript               20 repos            ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
+HTML                     20 repos            ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
+EJS                      13 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+Jupyter Notebook         4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+MATLAB                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 ```
 
 
@@ -87,7 +87,7 @@ MATLAB                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aravindvnair99/aravindvnair99/main/assets/bar_graph.png)
 
 
- Last Updated on 21/01/2026 21:52:21 UTC
+ Last Updated on 22/01/2026 02:30:20 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
