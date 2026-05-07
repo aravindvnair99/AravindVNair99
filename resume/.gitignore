@@ -1,0 +1,14 @@
+# Node modules
+node_modules/
+
+# LaTeX build files
+*.aux
+*.log
+*.out
+*.toc
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+
+# Generated PDFs
+*.pdf
