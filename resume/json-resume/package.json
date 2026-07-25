@@ -1,0 +1,22 @@
+{
+  "name": "json-resume",
+  "version": "1.0.0",
+  "description": "JSON Resume themes and dependencies for resume generation",
+  "main": "index.js",
+  "scripts": {
+    "export": "resumed export resume.json"
+  },
+  "keywords": [],
+  "author": "Aravind Nair",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@jsonresume/jsonresume-theme-class": "^0.5.1",
+    "jsonresume-theme-actual": "^0.2.2",
+    "jsonresume-theme-elegant": "^1.16.1",
+    "jsonresume-theme-flat": "^0.3.7",
+    "jsonresume-theme-stackoverflow": "^2.1.0",
+    "puppeteer": "^24.34.0",
+    "resumed": "^6.1.0"
+  }
+}
