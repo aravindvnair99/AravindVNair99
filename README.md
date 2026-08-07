@@ -20,8 +20,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AravindVNair99&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-487%20hrs%205%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-199.99%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -36,46 +34,6 @@
  > 
 > 🔑 16 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                16930 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-🌆 Daytime                48736 commits       ████████░░░░░░░░░░░░░░░░░   32.10 % 
-🌃 Evening                48924 commits       ████████░░░░░░░░░░░░░░░░░   32.23 % 
-🌙 Night                  37216 commits       ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   28347 commits       █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
-Tuesday                  25174 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
-Wednesday                16339 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
-Thursday                 17121 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
-Friday                   17813 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-Saturday                 25696 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
-Sunday                   21316 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Other                    30 mins             █████████████████████████   100.00 % 
-
-🔥 Editors: 
-Google Calendar          30 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Unknown OS               30 mins             █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -93,7 +51,7 @@ MATLAB                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aravindvnair99/aravindvnair99/main/assets/bar_graph.png)
 
 
- Last Updated on 06/08/2026 14:54:31 UTC
+ Last Updated on 07/08/2026 00:32:52 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
