@@ -1,0 +1,125 @@
+name: Build Resume Templates
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'resume/**'
+      - '.github/workflows/build-resume.yml'
+  pull_request:
+    branches: [ main ]
+    paths:
+      - 'resume/**'
+      - '.github/workflows/build-resume.yml'
+  workflow_dispatch:
+
+jobs:
+  build-latex:
+    name: build-latex (${{ matrix.template }})
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - template: sb2nov
+            use_xelatex: false
+          - template: awesome-cv
+            use_xelatex: true
+            extra_system_packages: "wget"
+            pre_compile: "wget -q https://github.com/adobe-fonts/source-sans/releases/download/3.052R/TTF-source-sans-3.052R.zip && unzip -q TTF-source-sans-3.052R.zip && mkdir -p ~/.fonts && cp TTF/*.ttf ~/.fonts/ && fc-cache -f"
+          - template: deedy-resume
+            use_xelatex: true
+            extra_system_packages: "wget"
+            pre_compile: "mkdir -p fonts/lato fonts/raleway && cd fonts/lato && wget -q https://github.com/google/fonts/raw/main/ofl/lato/Lato-Light.ttf -O Lato-Lig.ttf && wget -q https://github.com/google/fonts/raw/main/ofl/lato/Lato-Regular.ttf -O Lato-Reg.ttf && wget -q https://github.com/google/fonts/raw/main/ofl/lato/Lato-Bold.ttf -O Lato-Bol.ttf && wget -q https://github.com/google/fonts/raw/main/ofl/lato/Lato-LightItalic.ttf -O Lato-LigIta.ttf && wget -q https://github.com/google/fonts/raw/main/ofl/lato/Lato-Italic.ttf -O Lato-RegIta.ttf && wget -q https://github.com/google/fonts/raw/main/ofl/lato/Lato-Thin.ttf -O Lato-Hai.ttf && cd ../raleway && wget -q https://fonts.gstatic.com/s/raleway/v37/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtaooCP.ttf -O Raleway-ExtraLight.ttf && wget -q https://fonts.gstatic.com/s/raleway/v37/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoooCP.ttf -O Raleway-Medium.ttf && cd ../.."
+          - template: rover
+            use_xelatex: false
+          - template: expressive-resume
+            use_xelatex: false
+    
+    steps:
+      - uses: actions/checkout@v6
+      
+      - name: Compile LaTeX - ${{ matrix.template }}
+        uses: xu-cheng/latex-action@v4
+        with:
+          root_file: resume.tex
+          working_directory: resume/latex/${{ matrix.template }}
+          latexmk_use_xelatex: ${{ matrix.use_xelatex }}
+          extra_system_packages: ${{ matrix.extra_system_packages || '' }}
+          pre_compile: ${{ matrix.pre_compile || '' }}
+      
+      - name: Upload PDF - ${{ matrix.template }}
+        uses: actions/upload-artifact@v6
+        with:
+          name: resume-${{ matrix.template }}
+          path: resume/latex/${{ matrix.template }}/*.pdf
+        if: always()
+
+  build-json-resume:
+    name: build-json-resume (${{ matrix.output }})
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - theme: jsonresume-theme-elegant
+            output: elegant
+          - theme: '@jsonresume/jsonresume-theme-class'
+            output: class
+          - theme: jsonresume-theme-stackoverflow
+            output: stackoverflow
+          - theme: jsonresume-theme-flat
+            output: flat
+          - theme: jsonresume-theme-actual
+            output: actual
+    
+    steps:
+      - uses: actions/checkout@v6
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      
+      - name: Install dependencies
+        run: |
+          cd resume/json-resume
+          npm ci
+      
+      - name: Generate PDF - ${{ matrix.output }}
+        run: |
+          cd resume/json-resume
+          npm run export -- --output resume-${{ matrix.output }}.pdf --theme ${{ matrix.theme }} --puppeteer-arg="--no-sandbox" --puppeteer-arg="--disable-setuid-sandbox"
+      
+      - name: Upload PDF - ${{ matrix.output }}
+        uses: actions/upload-artifact@v6
+        with:
+          name: resume-json-${{ matrix.output }}
+          path: resume/json-resume/*.pdf
+        if: always()
+
+  create-release:
+    needs: [build-latex, build-json-resume]
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
+    permissions:
+      contents: write
+    
+    steps:
+      - uses: actions/download-artifact@v7
+        with:
+          path: artifacts
+      
+      - name: Create Release with GitHub CLI
+        run: |
+          gh release create resume-${{ github.run_number }} \
+            --title "Resume Build ${{ github.run_number }}" \
+            --notes "Automated resume build from commit ${{ github.sha }}" \
+            artifacts/**/*.pdf
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
